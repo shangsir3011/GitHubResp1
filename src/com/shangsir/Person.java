@@ -6,4 +6,7 @@ package com.shangsir;
  * @date 2021-11-26 16:41
  */
 public class Person {
+
+    private String name;
+
 }
